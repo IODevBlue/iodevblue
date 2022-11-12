@@ -4,8 +4,12 @@
 
 </p>
 
-# IO DEVBLUE
- I am a Java, Kotlin, C++ programmer, Native android developer and android technical documentation writer. .
+# Introduction
+I am IO DevBlue
+ - Java/Kotlin and C++ programmer.
+ - Native android developer.
+ - Technical and API documentation writer.
+
  I currently freelance on Upwork and Fiverr.
 
 <details>
@@ -71,9 +75,11 @@ I upload utility native android libraries and much more. Feel free to look aroun
   <img align="left" alt="IO DevBlue's Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/io-devblue-bb9899249">
-  <img align="left" alt="Vedant Jajoo Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+  <img align="left" alt="IO DevBlue's Linkedin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
-
+<a href="https://stackoverflow.com/users/17819649/iodevblue">
+  <img align="left" alt="IO DevBlue's Stack Overflow" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/stackoverflow.svg" />
+</a>
 <!--
 **IODevBlue/iodevblue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
