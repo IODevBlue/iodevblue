@@ -5,6 +5,8 @@
 <a href="https://www.linkedin.com/in/io-devblue-bb9899249">
   <img align="left" alt="Vedant Jajoo Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FIODevBlue%2Fiodevblue&label=Visitors&labelColor=%230109b6&countColor=%232ccce4)
 <!--
 **IODevBlue/iodevblue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
