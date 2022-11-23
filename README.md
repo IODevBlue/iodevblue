@@ -13,7 +13,7 @@ I am IO DevBlue
  I currently freelance on Upwork and Fiverr.
 
 <details>
-  <summary>Core Skills.. (Tap here) </summary>
+  <summary>Core Skills.. (Tap/Click here) </summary>
 
 - Designing and developing Native Android applications (from scratch if required).
 - Developing backend APIs.
