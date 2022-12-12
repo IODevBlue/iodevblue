@@ -22,6 +22,7 @@ I am IO DevBlue
 - Integrating Wireframes and Figma mobile layouts.
 - Kotlin Flows and Coroutines.
 - Kotlin multiplatform for mobile.
+- Reactive programming.
 
 </details>
 
@@ -67,7 +68,7 @@ I upload utility native android libraries and much more. Feel free to look aroun
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iodevblue&theme=github-dark-blue&hide_border=true" />
 
 ### Contribution Graph
-[![IO DevBlue's Github activity graph](https://activity-graph.herokuapp.com/graph?username=iodevblue&theme=react-dark)](https://github.com/iodevblue/github-readme-activity-graph)
+[![IO DevBlue's Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iodevblue&theme=react-dark)](https://github.com/iodevblue/github-readme-activity-graph)
 
 ### Contacts
 <a href="https://twitter.com/iodevblue">
