@@ -33,6 +33,7 @@ I upload utility native android libraries and much more. Feel free to look aroun
 - Building a great portfolio.
 - Contributing to open source the best way I can.
 - Going deeper into Native android especially hardware integration.
+- Cryptography, Data Encryption and Cryptographic algorithms.
 
 ### Design
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
