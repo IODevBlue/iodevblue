@@ -30,19 +30,32 @@ I upload utility native android libraries and much more. Feel free to look aroun
 
 ### Currently working on
 - Shopper: A native android e-commerce application.
+- Cryptography, Data Encryption and Cryptographic algorithms.
 - Building a great portfolio.
 - Contributing to open source the best way I can.
 - Going deeper into Native android especially hardware integration.
-- Cryptography, Data Encryption and Cryptographic algorithms.
 
 ### Design
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://www.dribbble.com/)
 
 ### Tech stack
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![XML](https://img.shields.io/badge/xml-016382?style=for-the-badge&logo=xml&logoColor=white)](https://en.wikipedia.org/wiki/XML)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+[![HTML](https://img.shields.io/badge/html-007396?style=for-the-badge&logoColor=white)](https://html.com/)
+
+### Project Management
+[![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)](https://atlassian.com/)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://jira.atlassian.com/)
+
+### Continuous Integration
+[![BitBucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 ### Build system
 [![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)](https://gradle.org/)
@@ -52,6 +65,7 @@ I upload utility native android libraries and much more. Feel free to look aroun
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 
 ### Databases
+[![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)](https://json.org/)
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)](https://firebase.google.com/)
 [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
 
@@ -80,6 +94,12 @@ I upload utility native android libraries and much more. Feel free to look aroun
 </a>
 <a href="https://stackoverflow.com/users/17819649/iodevblue">
   <img align="left" alt="IO DevBlue's Stack Overflow" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/stackoverflow.svg" />
+</a>
+<a href="https://www.behance.net/iodevblue">
+  <img align="left" alt="IO DevBlue's Behance" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/behance.svg" />
+</a>
+<a href="https://dribbble.com/iodevblue">
+  <img align="left" alt="IO DevBlue's Stack Overflow" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dribbble.svg" />
 </a>
 <!--
 **IODevBlue/iodevblue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
