@@ -76,9 +76,9 @@ I upload utility native android libraries and much more. Feel free to look aroun
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)](https://notepad-plus-plus.org/)
 
 ### Github Statistics
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iodevblue&theme=prussian)](https://github.com/iodevblue/github-readme-stats)
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iodevblue&theme=prussian)](https://github.com/iodevblue/github-readme-stats)
 
-[![IO DevBlue's GitHub stats](https://github-readme-stats.vercel.app/api?username=iodevblue&count_private=true&show_icons=true&theme=prussian)](https://github.com/iodevblue/github-readme-stats)
+[![IO DevBlue's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iodevblue&count_private=true&show_icons=true&theme=prussian)](https://github.com/iodevblue/github-readme-stats)
  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iodevblue&theme=github-dark-blue&hide_border=true" />
 
