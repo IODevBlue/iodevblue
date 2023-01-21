@@ -29,6 +29,7 @@ I am IO DevBlue
 I upload utility native android libraries and much more. Feel free to look around.
 
 ### Currently working on
+- [NetworkValidator](https://github.com/IODevBlue/NetworkValidator): Lightweight kotlin module for monitoring network activity.
 - Shopper: A native android e-commerce application.
 - Cryptography, Data Encryption and Cryptographic algorithms.
 - Building a great portfolio.
