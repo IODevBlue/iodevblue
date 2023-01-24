@@ -105,6 +105,9 @@ I upload utility native android libraries and much more. Feel free to look aroun
 <a href="https://dribbble.com/iodevblue">
   <img align="left" alt="IO DevBlue's Stack Overflow" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dribbble.svg" />
 </a>
+<a href="https://medium.com/@iodevblue">
+  <img align="left" alt="IO DevBlue's Medium" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
+</a>
 <!--
 **IODevBlue/iodevblue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
