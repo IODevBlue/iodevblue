@@ -19,6 +19,8 @@ I am IO DevBlue
 - Developing backend APIs.
 - Design patterns and architectures (MVP, MVVM, MVC).
 - Designing custom Native Android widgets.
+- Android Quality Assurance and automated testing
+- Test Driven Development: Unit and integration testing.
 - Integrating Wireframes and Figma mobile layouts.
 - Kotlin Flows and Coroutines.
 - Kotlin multiplatform for mobile.
