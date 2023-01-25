@@ -88,6 +88,9 @@ I upload utility native android libraries and much more. Feel free to look aroun
 ### Contribution Graph
 [![IO DevBlue's Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iodevblue&theme=react-dark)](https://github.com/iodevblue/github-readme-activity-graph)
 
+### Leetcode Analysis
+[![IO DevBlue's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=iodevblue&theme=dark)](https://leetcode.com/iodevblue)
+
 ### Contacts
 <a href="https://twitter.com/iodevblue">
   <img align="left" alt="IO DevBlue's Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
@@ -109,6 +112,9 @@ I upload utility native android libraries and much more. Feel free to look aroun
 </a>
 <a href="https://medium.com/@iodevblue">
   <img align="left" alt="IO DevBlue's Medium" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
+</a>
+<a href="https://leetcode.com/iodevblue/">
+  <img align="left" alt="IO DevBlue's Leetcode" width="21px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" />
 </a>
 <!--
 **IODevBlue/iodevblue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
