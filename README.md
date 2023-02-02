@@ -19,8 +19,8 @@ I am IO DevBlue
 - Developing backend APIs.
 - Design patterns and architectures (MVP, MVVM, MVC).
 - Designing custom Native Android widgets.
-- Android Quality Assurance and automated testing
-- Test Driven Development: Unit and integration testing.
+- Android Quality Assurance and Automated Testing
+- Test Driven Development: Unit and Integration Testing.
 - Integrating Wireframes and Figma mobile layouts.
 - Kotlin Flows and Coroutines.
 - Kotlin multiplatform for mobile.
@@ -46,10 +46,24 @@ I upload utility native android libraries and much more. Feel free to look aroun
 ### Tech stack
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![XML](https://img.shields.io/badge/xml-016382?style=for-the-badge&logo=xml&logoColor=white)](https://en.wikipedia.org/wiki/XML)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 [![HTML](https://img.shields.io/badge/html-007396?style=for-the-badge&logoColor=white)](https://html.com/)
+
+### Testing Frameworks
+<a href="https://junit.org/junit5/">
+  <img align="left" width="150px" height="50px" alt="JUnit" src="https://junit.org/junit4/images/junit5-banner.png" />
+</a>
+<a href="https://developer.android.com/training/testing/espresso/">
+  <img align="left" width="50px" height="50px" alt="Espresso" src="https://developer.android.com/static/images/training/testing/espresso.png" />
+</a>
+<a href="https://site.mockito.org/">
+  <img width="100px" height="50px" alt="Mockito" src="https://github.com/mockito/mockito.github.io/raw/master/img/logo%402x.png" />
+</a>
+<br>
+
 
 ### Project Management
 [![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)](https://atlassian.com/)
@@ -60,10 +74,10 @@ I upload utility native android libraries and much more. Feel free to look aroun
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
-### Build system
+### Build System
 [![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)](https://gradle.org/)
 
-### Operating system
+### Operating System
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 
