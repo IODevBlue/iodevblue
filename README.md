@@ -10,15 +10,16 @@ I am IO DevBlue
  - Native android developer.
  - Technical and API documentation writer.
 
- I currently freelance on Upwork and Fiverr.
+I currently freelance.
 
 <details>
-  <summary>Core Skills.. (Tap/Click here) </summary>
+  <summary>Core Skills... (Tap/Click here) </summary>
 
 - Designing and developing Native Android applications (from scratch if required).
 - Developing backend APIs.
-- Design patterns and architectures (MVP, MVVM, MVC).
+- Design patterns and architectures (MVP, MVVM, MVC, Clean).
 - Designing custom Native Android widgets.
+- API documentation and Technical writing.
 - Android Quality Assurance and Automated Testing
 - Test Driven Development: Unit and Integration Testing.
 - Integrating Wireframes and Figma mobile layouts.
