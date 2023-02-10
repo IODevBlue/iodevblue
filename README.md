@@ -24,6 +24,7 @@ I currently freelance.
 - Test Driven Development: Unit and Integration Testing.
 - Integrating Wireframes and Figma mobile layouts.
 - Kotlin Flows and Coroutines.
+- Open Authorization (OAuth) and Single Sign-On(SSO)
 - Kotlin multiplatform for mobile.
 - Reactive programming.
 
