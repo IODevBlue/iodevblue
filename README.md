@@ -33,6 +33,12 @@ I currently freelance.
 I upload utility native android libraries and much more. Feel free to look around.
 - My open source [android](https://github.com/IODevBlue/iodevblue/blob/main/Projects/api/android/android_api_manifest.md) projects
 
+### Appreciation
+If any of my libraries or APIs were useful:
+- I do have wishlist [here](https://www.buymeacoffee.com/iodevblue/w/16134) if you'd love to support.
+- A [cup](https://buymeacoffee.com/iodevblue) of coffee (or a lager) would be nice.
+Thanks 💙💙
+
 ### Currently working on
 - [BannerX](https://github.com/IODevBlue/BannerX): BannerX is a Kotlin library which provides an intuitive way to display advertisements and slideshows.
 - Shopper: A native android e-commerce application.
