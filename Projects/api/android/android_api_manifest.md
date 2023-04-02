@@ -29,3 +29,5 @@ A native android navigation drawer that supports sliding from the left and right
 A utility library to manipulate Android's status bar background color, height and transparency. 
 <img src="https://github.com/IODevBlue/StatusBarColors/blob/main/app/src/main/ic_launcher-playstore.png" />
 
+### [Stroked TextView](https://github.com/IODevBlue/StrokedTextView)
+A native android textview capable of adding strokes or outlines to texts. 
