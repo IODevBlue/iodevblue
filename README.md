@@ -115,8 +115,8 @@ Thanks 💙💙
 [![IO DevBlue's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=iodevblue&theme=dark)](https://leetcode.com/iodevblue)
 
 ### Contacts
-<a href="https://twitter.com/iodevblue">
-  <img align="left" alt="IO DevBlue's Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
+<a href="https://www.reddit.com/u/iodevblue">
+  <img align="left" alt="IO DevBlue's Reddit" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/reddit.svg" />
 </a>
 <a href="https://www.instagram.com/iodevblue/">
   <img align="left" alt="IO DevBlue's Instagram" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/instagram.svg" />
