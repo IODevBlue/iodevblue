@@ -10,12 +10,15 @@ An easy to use SearchView fixed with a RecyclerView to display search results.
 
 ### [BannerX](https://github.com/IODevBlue/BannerX)
 BannerX is a Kotlin library which provides an intuituve way to display advertisements and slideshows. 
+<img src="https://github.com/IODevBlue/BannerX/blob/main/sample/src/main/ic_launcher-playstore.png" />
 
 ### [BannerX-Indicators](https://github.com/IODevBlue/BannerX-Indicators)
 Custom indicators for the BannerX library.
+<img src="https://github.com/IODevBlue/BannerX/blob/main/sample/src/main/ic_launcher-playstore.png" />
 
 ### [BannerX-Transformers](https://github.com/IODevBlue/BannerX-Transformers)
 Custom transformers for the BannerX library. 
+<img src="https://github.com/IODevBlue/BannerX/blob/main/sample/src/main/ic_launcher-playstore.png" />
 
 ### [Chips Layout Manager](https://github.com/IODevBlue/ChipsLayoutManager)
 Chips Layout Manager is a custom RecyclerView LayoutManager used to manage Chip Views and custom Chip implementations. It also supports RecyclerView's CRUD animations.
