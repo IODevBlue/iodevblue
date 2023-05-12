@@ -6,7 +6,7 @@
 
 # Introduction
 I am IO DevBlue
- - Java/Kotlin and C++ programmer.
+ - Java, Kotlin and C/C++ programmer.
  - Native android developer.
  - Technical and API documentation writer.
 
@@ -34,7 +34,7 @@ I upload utility native android libraries and much more. Feel free to look aroun
 - My open source [android](https://github.com/IODevBlue/iodevblue/blob/main/Projects/api/android/android_api_manifest.md) projects.
 
 ### Currently working on
-- [BannerX](https://github.com/IODevBlue/BannerX): BannerX is a Kotlin library which provides an intuitive way to display advertisements and slideshows.
+- [StrokedTextView](https://github.com/IODevBlue/StrokedTextView): A native android textview capable of adding strokes or outlines to texts.
 - Shopper: A native android e-commerce application.
 - Cryptography, Data Encryption and Cryptographic algorithms.
 - Building a great portfolio.
