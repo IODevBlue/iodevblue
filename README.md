@@ -33,6 +33,9 @@ I currently freelance.
 I upload utility native android libraries and much more. Feel free to look around.
 - My open source [android](https://github.com/IODevBlue/iodevblue/blob/main/Projects/api/android/android_api_manifest.md) projects.
 
+### Technical Articles
+[![IO DevBlue's Medium](https://github-readme-medium.vercel.app/?username=iodevblue&limit=5)](https://medium.com/@iodevblue)
+
 ### Currently working on
 - [StrokedTextView](https://github.com/IODevBlue/StrokedTextView): A native android textview capable of adding strokes or outlines to texts.
 - Shopper: A native android e-commerce application.
