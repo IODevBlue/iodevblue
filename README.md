@@ -68,6 +68,9 @@ I upload utility native android libraries and much more. Feel free to look aroun
 <a href="https://site.mockito.org/">
   <img width="100px" height="50px" alt="Mockito" src="https://github.com/mockito/mockito.github.io/raw/master/img/logo%402x.png" />
 </a>
+<a href="https://kotest.io/">
+  <img width="50px" height="50px" alt="Kotest" src="https://github.com/kotest/kotest/raw/master/doc/logo7-square.png" />
+</a>
 <br>
 
 
