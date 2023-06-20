@@ -40,12 +40,13 @@ I upload utility native android libraries and much more. Feel free to look aroun
 [![IO DevBlue's Medium](https://github-readme-medium.vercel.app/?username=iodevblue&limit=5)](https://medium.com/@iodevblue)
 
 ### Currently working on
-- [StrokedTextView](https://github.com/IODevBlue/StrokedTextView): A native android textview capable of adding strokes or outlines to texts.
-- Shopper: A native android e-commerce application.
+- Shopper: A native android e-commerce application with seamless real-time communication for small and medium businesses.
 - Cryptography, Data Encryption and Cryptographic algorithms.
+- Spring boot and REST APIs design.
+- Server-side Java.
+- Going deeper into Native android especially hardware integration and native APIs.
 - Building a great portfolio.
 - Contributing to open source the best way I can.
-- Going deeper into Native android especially hardware integration and native APIs.
 
 ### Design
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
@@ -88,6 +89,7 @@ I upload utility native android libraries and much more. Feel free to look aroun
 
 ### Build System
 [![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)](https://gradle.org/)
+[![Apache Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
 
 ### Operating System
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
