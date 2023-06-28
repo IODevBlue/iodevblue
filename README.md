@@ -13,6 +13,7 @@ I am IO DevBlue
 I currently freelance.
 - [Fiverr](https://www.fiverr.com/iodevblue)
 - [Truelancer](https://www.truelancer.com/freelancer/iodevblue)
+- [Dynamite Jobs](https://dynamitejobs.com/profile/Uu0U1H2iPAN4XQnjJDtUhQeiz1W2/io-devblue)
 
 
 <details>
