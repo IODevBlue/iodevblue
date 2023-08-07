@@ -37,8 +37,8 @@ I currently freelance.
 I upload utility native android libraries and much more. Feel free to look around.
 - My open source [android](https://github.com/IODevBlue/iodevblue/blob/main/Projects/api/android/android_api_manifest.md) projects.
 
-### Technical Articles
-[![IO DevBlue's Medium](https://github-readme-medium.vercel.app/?username=iodevblue&limit=2)](https://medium.com/@iodevblue)
+### Latest Technical Article
+[![IO DevBlue's Medium](https://github-readme-medium.vercel.app/?username=iodevblue)](https://medium.com/@iodevblue)
 
 ### Currently working on
 - Shopper: A native android e-commerce application with seamless real-time communication for small and medium businesses.
