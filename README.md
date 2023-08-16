@@ -130,10 +130,11 @@ I upload utility native android libraries and much more. Feel free to look aroun
 <a href="https://discord.com/users/1088328002246553633/">
   <img align="left" alt="IO DevBlue's Discord" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/discord.svg" />
 </a>
+<!--
 <a href="https://www.linkedin.com/in/emmanuel-eugene-okorie-bb9899249">
   <img align="left" alt="IO DevBlue's Linkedin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
-
+-->
 <a href="https://softwareengineering.stackexchange.com/users/430063/io-devblue">
   <img align="left" alt="IO DevBlue's Stack Exchange" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/stackexchange.svg" />
 </a>
