@@ -10,12 +10,6 @@ I am IO DevBlue
  - Native android developer.
  - Technical and API documentation writer.
 
-I currently freelance.
-- [Fiverr](https://www.fiverr.com/iodevblue)
-- [Truelancer](https://www.truelancer.com/freelancer/iodevblue)
-- [Dynamite Jobs](https://dynamitejobs.com/profile/Uu0U1H2iPAN4XQnjJDtUhQeiz1W2/io-devblue)
-
-
 <details>
   <summary>Core Skills... (Tap/Click here) </summary>
 
@@ -42,6 +36,7 @@ I upload utility native android libraries and much more. Feel free to look aroun
 
 ### Currently working on
 - Shopper: A native android e-commerce application with seamless real-time communication for small and medium businesses.
+- Native iOS.
 - Cryptography, Data Encryption and Cryptographic algorithms.
 - Spring boot and REST APIs design.
 - Server-side Java.
@@ -59,9 +54,11 @@ I upload utility native android libraries and much more. Feel free to look aroun
 [![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Swift](https://img.shields.io/badge/Swift-cc5500?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
 [![XML](https://img.shields.io/badge/xml-016382?style=for-the-badge&logo=xml&logoColor=white)](https://en.wikipedia.org/wiki/XML)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 [![HTML](https://img.shields.io/badge/html-007396?style=for-the-badge&logoColor=white)](https://html.com/)
+
 
 ### Testing Frameworks
 <a href="https://junit.org/junit5/">
@@ -95,6 +92,9 @@ I upload utility native android libraries and much more. Feel free to look aroun
 ### Operating System
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
+[![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://www.apple.com/mac)
+[![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/ios/)
+
 
 ### Databases
 [![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)](https://json.org/)
