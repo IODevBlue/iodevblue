@@ -13,22 +13,22 @@ I am IO DevBlue
   <summary>Core Skills... (Tap/Click here) </summary>
  
 - API documentation and Technical writing.
-- Android Quality Assurance and Automated Testing
-- Code analysis and Debugging.
+- Android/iOS quality assurance and automated testing
+- Code analysis, debugging and maintenance.
 - Design patterns and architectures (MVP, MVVM, MVC, Clean).
 - Designing and developing Native Android applications (from scratch if required).
 - Developing backend APIs.
-- Designing custom Native Android widgets.
+- Designing custom Native Android/iOS widgets.
 - Integrating Wireframes and Figma mobile layouts.
-- Kotlin Flows and Coroutines.
 - Open Authorization (OAuth) and Single Sign-On(SSO)
 - Reactive programming.
 - Test Driven Development: Unit and Integration Testing.
 
 </details>
 
-I upload utility native android libraries and much more. Feel free to look around.
-- My open source [android](https://github.com/IODevBlue/iodevblue/blob/main/Projects/api/android/android_api_manifest.md) projects.
+My open-source libraries:
+- [Android](https://github.com/IODevBlue/iodevblue/blob/main/Projects/api/android/android_api_manifest.md)
+- [iOS](https://github.com/IODevBlue/iodevblue/blob/main/Projects/api/ios/ios_api_manifest.md)
 
 
 <!--
@@ -41,13 +41,14 @@ Check out my Technical articles on [Medium](https://medium.com/@iodevblue).
 
 ### Currently working on
 - Building a great portfolio.
+- CI/CD pipelines: Github Actions, Jenkins.
 - Contributing to open source the best way I can.
 - Cryptography, Data Encryption and Cryptographic algorithms.
-- Going deeper into Native android especially hardware integration and native APIs.
+- Going deeper into native android especially hardware integration, NDK and native APIs.
 - Native iOS: SwiftUI, UIKit and Core Foundation APIs.
 - Server-side Java.
 - Shopper: A native android e-commerce application with seamless real-time communication for small and medium businesses.
-- Spring boot and advanced REST APIs design.
+- Spring boot, Ktor and advanced REST APIs design.
 
 ### Design
 <!--
