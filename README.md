@@ -47,7 +47,7 @@ Check out my Technical articles on [Medium](https://medium.com/@iodevblue).
 - Going deeper into native android especially hardware integration, NDK and native APIs.
 - Native iOS: SwiftUI, UIKit and Core Foundation APIs.
 - Server-side Java.
-- Shopper: A native android e-commerce application with seamless real-time communication for small and medium businesses.
+- Shopper: A mobile e-commerce application available natively on both Android and iOS offering seamless real-time communication for small and medium businesses.
 - Spring boot, Ktor and advanced REST APIs design.
 
 ### Design
