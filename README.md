@@ -44,18 +44,16 @@ I am **IO DevBlue**
 
 <details>
   <summary>Core Skills... (Tap/Click)</summary>
-
-- API and technical documentation  
-- Android, iOS, and Flutter development  
-- Code analysis, debugging, and maintenance  
-- Design patterns and architectures (MVP, MVVM, MVC, Clean)  
-- Backend API development  
-- Custom native Android/iOS and Flutter widgets  
-- Figma and wireframe integration  
-- OAuth and Single Sign-On (SSO)  
-- Reactive programming  
-- Test-Driven Development: Unit and integration testing  
-
+    - Android, iOS, and Flutter development
+    - API and technical documentation
+    - Backend API development
+    - Code analysis, debugging, and maintenance
+    - Custom native Android/iOS and Flutter widgets
+    - Design patterns and architectures (MVP, MVVM, MVC, Clean)
+    - Figma and wireframe integration
+    - OAuth and Single Sign-On (SSO)
+    - Reactive programming
+    - Test-Driven Development: Unit and integration testing
 </details>
 
 ---
@@ -69,18 +67,18 @@ Check out my technical articles on [Medium](https://medium.com/@iodevblue).
 ---
 
 # 🔧 Currently Working On
-- Blockchain development and smart contract integration  
-- Professional portfolio  
-- CI/CD pipelines with GitHub Actions and Jenkins  
-- Contributing to open source projects  
-- Cryptography, data encryption, and cryptographic algorithms  
-- Advanced native Android: hardware integration, NDK, native APIs  
-- Interactive animations (Rive, DragonBones, WebGL) in native & Flutter apps  
-- Native iOS development: SwiftUI, UIKit, Core Foundation APIs  
-- Server-side Java with Spring Boot  
-- Server-side Kotlin with Ktor  
-- Shopper: Native mobile e-commerce app with real-time communication  
-
+- Advanced native Android: hardware integration, NDK, native APIs
+- Blockchain development and smart contract integration
+- Building a great portfolio
+- CI/CD pipelines with GitHub Actions and Jenkins
+- Contributing to open source projects
+- Cryptography, data encryption and cryptographic algorithms
+- Interactive animations (Rive, DragonBones, WebGL) in native & Flutter apps
+- Native iOS development: SwiftUI, UIKit, Core Foundation APIs
+- Server-side Java with Spring Boot
+- Server-side Kotlin with Ktor
+- Shopper: Native mobile e-commerce app with real-time communication
+ 
 ---
 
 # 💻 Languages
