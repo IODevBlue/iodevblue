@@ -44,17 +44,20 @@ I am **IO DevBlue**
 
 <details>
   <summary>Core Skills... (Tap/Click)</summary>
-    - Android, iOS, and Flutter development
-    - API and technical documentation
-    - Backend API development
-    - Code analysis, debugging, and maintenance
-    - Custom native Android/iOS and Flutter widgets
-    - Design patterns and architectures (MVP, MVVM, MVC, Clean)
-    - Figma and wireframe integration
-    - OAuth and Single Sign-On (SSO)
-    - Reactive programming
-    - Test-Driven Development: Unit and integration testing
+  <ul>
+    <li>Android, iOS, and Flutter development</li>
+    <li>API and technical documentation</li>
+    <li>Backend API development</li>
+    <li>Code analysis, debugging and maintenance</li>
+    <li>Custom native Android/iOS and Flutter widgets</li>
+    <li>Design patterns and architectures (MVP, MVVM, MVC, Clean)</li>
+    <li>Figma and wireframe integration</li>
+    <li>OAuth and Single Sign-On (SSO)</li>
+    <li>Reactive programming</li>
+    <li>Test-Driven Development: Unit and integration testing</li>
+  </ul>
 </details>
+
 
 ---
 
