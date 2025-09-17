@@ -4,19 +4,32 @@
 </p>
 
 <table align="center">
- <tr>
+  <tr>
     <td colspan="2" align="center">
       <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FIODevBlue%2Fiodevblue&label=Visitors&labelColor=%230109b6&countColor=%232ccce4" />
     </td>
   </tr>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iodevblue&theme=prussian" width="300"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=iodevblue&count_private=true&show_icons=true&theme=prussian" width="300"/></td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iodevblue&theme=prussian" width="300" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=iodevblue&count_private=true&show_icons=true&theme=prussian" width="300" />
+    </td>
   </tr>
+    <!--
   <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=iodevblue&theme=github-dark-blue&hide_border=true" width="300"/></td>
-    <td><img src="https://leetcode-stats.vercel.app/api?username=iodevblue&theme=dark" width="300"/></td>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=iodevblue&theme=dark&background=000000" width="300" alt="GitHub Streak" />
+      </a>
+    </td>
+    <td colspan="2" align="center">
+      <img src="https://leetcode-stats.vercel.app/api?username=iodevblue&theme=dark" width="300" />
+    </td>
   </tr>
+      -->
+
 </table>
 
 ---
