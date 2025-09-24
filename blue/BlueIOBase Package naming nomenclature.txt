@@ -1,0 +1,106 @@
+IODevBlue Naming Convention
+===========================
+
+package
+-------
+[root].[domain].[target].[project_name].(optional)[subdomain]
+
+root
+----
+- io.github.iodevblue = Github
+
+domain/subdomain
+----------------
+- ai = Applied AI systems (chatbots, agents, vision apps).
+- api = APIs
+- app = Applications
+- blockchain = Blockchain, smart contracts, distributed ledger tech
+- cli = Command line tools / utilities
+- db = Database schemas, migrations, and management utilities
+- docs = Documentations
+- game = Games
+- iot = Internet of things
+- ml = Core machine learning algorithms, training, frameworks.
+- research = Experimental/prototype projects, algorithms, academic codebases, formal prototypes
+- sandbox = Lightweight experiments, quick demos, or playground code
+- service = Background services, daemons, agents, Docker, Kubernetes
+- web = Websites
+
+	
+target
+------
+- android = Android
+- ar = Augmented reality
+- cloud = Cloud/backend services (AWS, GCP, Azure, serverless, etc.)
+- console = Console systems (PlayStation, Xbox, Switch, etc.)
+- cpp = C++
+- dart = Dart
+- desktop = Desktop systems (crossplatform)
+- embedded = Embedded systems / microcontrollers
+- flutter = Flutter
+- ios = iOS
+- java = Java
+- kotlin = Kotlin
+- ktor = Ktor
+- kmp = Kotlin Multi-Platform
+- linux = Linux
+- macos = macOS
+- mobile = Crossplatform mobile (KMM, Flutter, RN, etc.)
+- reactnative = React Native
+- server = Dedicated servers / backend applications (non-cloud specific)
+- swift - Swift
+- universal = Platform-agnostic logic. Used in multiple targets.
+- vr = Virtual reality
+- wearable = Wearable devices (smartwatches, fitness bands, etc.)
+- windows = Windows
+
+
+	
+Rules
+=====
+
+General
+-------
+- Semantic versioning must always be followed:
+--- Versions use the format vMAJOR.MINOR.PATCH (e.g., v1.2.0).
+--- Pre-release and build metadata should follow semantic versioning guidelines (e.g., v1.2.0-alpha.1, v2.0.0-beta, v1.0.0-rc.3).
+--- Additional build identifiers may be appended for specific use cases:
+------ dev = Development builds
+------ snapshot = Snapshot builds for testing
+------ beta = Public/closed beta testing builds
+------ rc = Release candidates prior to stable
+------ No suffix = Stable release
+
+- Sample application binaries must follow the naming convention:[project name]_sample-[version].[extension]
+
+
+Android
+-------
+- If a sample implementation exists, then it must be placed in the optional `sample` package, even if it resides in a separate module.
+
+- The main API/library code must always reside in a module named after the project in lowercase (preferred), or in a generalized module named `core` or `library`.
+
+- The sample implementation of a `library`/`core` module must be placed in a module named `sample` (never app).
+
+
+
+Crossplatform
+-------------
+- Projects must follow the IODevBlue Naming Convention: [root].[domain].[target].[project_name].(optional)[subdomain]
+
+
+- `universal` must be used as the target when the codebase is platform-agnostic or shared across multiple targets.
+
+- Each project has a single root package and additional aspects (AI, docs, sandbox, service, etc.) must be expressed as subdomains of that project.
+
+- Avoid mixing multiple domains at the top level. Instead, attach them as subdomains within the project scope.
+Example:
+io.github.iodevblue.game.universal.yellowbeams.ai
+io.github.iodevblue.game.universal.yellowbeams.docs
+io.github.iodevblue.game.universal.yellowbeams.service
+
+
+- Subdomains should only be introduced when the project logically requires separate concerns (e.g., ai, docs, service, iot).
+
+- Keep domain and target classification consistent with the convention definitions.
+

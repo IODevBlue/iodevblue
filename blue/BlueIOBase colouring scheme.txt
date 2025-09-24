@@ -1,0 +1,7 @@
+BLUEIOBASE COLOURING SCHEME:
+
+Primary main colour: F20109B6 - main_blue
+Primary main colour variant (darker): F2020667 - main_blue_dark
+Secondary colour: FF038BE5 - light_blue
+Secondary colour variant (darker): FF014F83 - light_blue_dark
+Thumbnail size = 128x72
