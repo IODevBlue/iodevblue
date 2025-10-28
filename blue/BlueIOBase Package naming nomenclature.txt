@@ -8,6 +8,7 @@ package
 root
 ----
 - io.github.iodevblue = Github
+- iodveblue = General/Multipurpose
 
 domain/subdomain
 ----------------
@@ -48,6 +49,8 @@ target
 - mobile = Crossplatform mobile (KMM, Flutter, RN, etc.)
 - reactnative = React Native
 - server = Dedicated servers / backend applications (non-cloud specific)
+- spring = Spring
+- springboot = Spring Boot
 - swift - Swift
 - universal = Platform-agnostic logic. Used in multiple targets.
 - vr = Virtual reality
