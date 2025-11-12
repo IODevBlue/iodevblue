@@ -81,6 +81,7 @@ Check out my technical articles on [Medium](https://medium.com/@iodevblue).
 - Server-side Java with Spring Boot
 - Server-side Kotlin with Ktor
 - Shopper: Native mobile e-commerce app with real-time communication
+- StreamNear: An offline-first peer-to-peer social app for real-time communications and media sharing using local connections (Wi-Fi Direct, Bluetooth mesh)
  
 ---
 
