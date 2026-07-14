@@ -11,10 +11,10 @@
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iodevblue&theme=prussian" width="300" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=iodevblue&theme=prussian" width="300" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=iodevblue&count_private=true&show_icons=true&theme=prussian" width="300" />
+      <img src="https://github-stats-extended.vercel.app/api?username=iodevblue&count_private=true&show_icons=true&theme=prussian" width="300" />
     </td>
   </tr>
     <!--
