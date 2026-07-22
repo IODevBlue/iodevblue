@@ -11,10 +11,10 @@
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iodevblue&theme=prussian" width="300" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=iodevblue&theme=prussian" width="300" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=iodevblue&count_private=true&show_icons=true&theme=prussian" width="300" />
+      <img src="https://github-stats-extended.vercel.app/api?username=iodevblue&count_private=true&show_icons=true&theme=prussian" width="300" />
     </td>
   </tr>
     <!--
@@ -92,6 +92,7 @@ Check out my technical articles on [Medium](https://medium.com/@iodevblue).
 [![Groovy](https://img.shields.io/badge/Groovy-%23E69F56?style=for-the-badge&logo=apachegroovy&logoColor=white)](https://groovy-lang.org/)
 [![HTML](https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://en.wikipedia.org/wiki/JavaScript)
 [![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 [![Objective-C](https://img.shields.io/badge/Objective--C-%23438EFF?style=for-the-badge&logo=objectivec&logoColor=white)](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
@@ -152,7 +153,7 @@ Check out my technical articles on [Medium](https://medium.com/@iodevblue).
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iodevblue/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/iodevblue/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@iodevblue)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-eugene-okorie-bb9899249)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-e-bb9899249)
 [![Stack Exchange](https://img.shields.io/badge/Stack_Exchange-1E6BB8?style=for-the-badge&logo=stack-exchange&logoColor=white)](https://softwareengineering.stackexchange.com/users/430063/io-devblue)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17819649/iodevblue)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/io_devblue)
