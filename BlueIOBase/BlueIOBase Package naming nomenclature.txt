@@ -8,7 +8,7 @@ package
 root
 ----
 - io.github.iodevblue = Github
-- iodveblue = General/Multipurpose
+- iodevblue = General/Multipurpose
 
 domain/subdomain
 ----------------
@@ -41,6 +41,7 @@ target
 - flutter = Flutter
 - ios = iOS
 - java = Java
+- javascript = JavaScript
 - kotlin = Kotlin
 - ktor = Ktor
 - kmp = Kotlin Multi-Platform
