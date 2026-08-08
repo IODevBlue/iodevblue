@@ -1,0 +1,15 @@
+BITCOIN REGTEST DETAILS
+=======================
+
+Address
+-------
+
+lab_wallet:
+- bcrt1qj89psndycsdexqjlcczt7prlgpqexw6q23q6a8
+- bcrt1q7w8la8f0nzyth5wf0ueke0z0urcjctwmp2yu96
+
+second_wallet:
+- bcrt1qpcfydk9f9k806l2njenzs5nwky7em36j27mmk9
+
+third_wallet:
+- bcrt1q0dx5svu0hx4rvd095kk9rc9jlyamw2afjghmly

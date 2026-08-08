@@ -1,0 +1,121 @@
+BUILDING THE BITCOIN CODEBASE
+=============================
+Version: 30.0.0
+
+The cleanest, most reliable way to build Bitcoin Core on macOS is to use the built-in depends/ cross-compilation system — exactly what the maintainers use for official releases.
+This bypasses Homebrew entirely for dependencies and gives you reproducible, correct builds.
+Step-by-Step (Tested on macOS Ventura/Sequoia in 2025)
+
+# 1. Install basic tools (if not already)
+brew install cmake automake berkeley-db@4 libtool boost miniupnpc gmp libnatpmp libevent qrencode pkg-config
+
+# Note: berkeley-db@4 might still be unavailable — see workaround below
+
+# 2. Clone Bitcoin Core v30.0.0
+git clone https://github.com/bitcoin/bitcoin.git
+cd bitcoin
+git checkout v30.0.0
+
+# 3. Use depends for dependencies
+cd depends
+make NO_QT=1 NO_UPNP=1 NO_NATPMP=1  # Builds core deps without GUI/UPnP if needed
+
+# 4. Back to root and configure with depends
+cd ..
+./autogen.sh
+./configure --with-gui=no  # Headless bitcoind first
+# Or with GUI: ./configure --with-gui=qt6
+
+make -j$(nproc)
+
+
+If BDB is the blocker:
+
+Bitcoin Core allows --disable-wallet to skip BDB entirely:Bash./configure --disable-wallet --with-gui=qt6
+
+This builds bitcoind and bitcoin-qt without legacy wallet support — perfectly fine for learning/node running.
+
+---
+
+Then install capnp:
+brew install capnp
+
+- Create a build folder in bitcoin's codebase, and run cmake ..
+- There should be no errors
+
+=====================================
+**You did it — Bitcoin Core v30.0.0 configured successfully!**
+
+That output is a **clean, successful CMake configuration**. No errors, no missing critical dependencies. Everything is ready to build.
+
+Let me break down what you just achieved and what to do next.
+
+### Configuration Summary (Key Highlights)
+
+- **Compiler**: AppleClang 15 (Xcode 15+ — perfect for macOS Ventura).
+- **Build Type**: RelWithDebInfo (optimized with debug info — ideal for development).
+- **Multiprocess IPC**: ON (thanks to your `capnp` install — great!).
+- **Wallet**: ON
+- **bitcoind, bitcoin-cli, bitcoin-tx, bitcoin-wallet, bitcoin-util**: All ON
+- **GUI (bitcoin-qt)**: OFF (expected — you didn't pass Qt paths yet)
+- **Tests**: ON
+- **secp256k1**: Configured with assembly optimizations (x86_64)
+
+You're building the **full headless node with wallet and modern multiprocess support**.
+
+### Next Step: Build It
+
+Now just compile:
+
+```bash
+# From inside the build/ directory
+cmake --build . -j$(nproc)
+```
+
+This will take 10–30 minutes depending on your Mac (M1/M2 will be faster).
+
+Expected output at the end:
+```
+[100%] Built target bitcoind
+[100%] Built target bitcoin-cli
+[100%] Built target bitcoin-wallet
+...
+```
+
+You’ll find the binaries in `build/src/`:
+- `src/bitcoind`
+- `src/bitcoin-cli`
+- `src/bitcoin-wallet`
+- `src/bitcoin-tx`
+- `src/bitcoin-util`
+
+### Test It (Quick Smoke Test)
+
+```bash
+./src/bitcoind --version
+# Should print "Bitcoin Core version v30.0.0"
+
+./src/bitcoin-cli --version
+```
+
+If you want to run a regtest node:
+```bash
+./src/bitcoind -regtest -daemon
+./src/bitcoin-cli -regtest getblockcount
+```
+
+### Optional: Enable GUI (bitcoin-qt) Later
+
+If you want the graphical wallet:
+1. Make sure Qt6 is built via `depends/` (recommended) or use Homebrew Qt.
+2. Reconfigure with:
+```bash
+cmake .. -DBUILD_GUI=ON
+cmake --build . -j$(nproc)
+```
+
+But headless is perfect for now.
+
+
+You're officially past the "getting Bitcoin to build" hurdle.  
+Next stop: running your own node and stealing all the good parts for RCP. 🚀
