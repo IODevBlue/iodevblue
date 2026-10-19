@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iodevblue&theme=react-dark" width="620"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=iodevblue&theme=react-dark" width="620"/> -->
 </p>
 
 <table align="center">
@@ -9,26 +9,26 @@
       <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FIODevBlue%2Fiodevblue&label=Visitors&labelColor=%230109b6&countColor=%232ccce4" />
     </td>
   </tr>
+  
   <tr>
-    <td>
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=iodevblue&theme=prussian" width="300" />
-    </td>
-    <td>
-      <img src="https://github-stats-extended.vercel.app/api?username=iodevblue&count_private=true&show_icons=true&theme=prussian" width="300" />
-    </td>
+    <td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=iodevblue&theme=prussian" width="300" /></td>
+    <td><img src="https://github-stats-extended.vercel.app/api?username=iodevblue&count_private=true&show_icons=true&theme=prussian" width="300" /></td>
   </tr>
-    <!--
+  
   <tr>
-    <td>
+    <td colspan="2" align="center">
       <a href="https://git.io/streak-stats">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=iodevblue&theme=dark&background=000000" width="300" alt="GitHub Streak" />
-      </a>
-    </td>
-    <td colspan="2" align="center">
-      <img src="https://leetcode-stats.vercel.app/api?username=iodevblue&theme=dark" width="300" />
+      </a>    
     </td>
   </tr>
-      -->
+  
+  <!-- <tr>
+    <td>
+      <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=iodevblue&theme=dark&background=000000" width="300" alt="GitHub Streak" /></a>
+    </td>
+    <td colspan="2" align="center"><img src="https://leetcode-stats.vercel.app/api?username=iodevblue&theme=dark" width="300" /></td>
+  </tr> -->
 
 </table>
 
@@ -150,11 +150,12 @@ Check out my technical articles on [Medium](https://medium.com/@iodevblue).
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/iodevblue)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1088328002246553633/)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/iodevblue)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iodevblue@gmail.com)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/iodevblue)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iodevblue/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/iodevblue/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@iodevblue)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-e-bb9899249)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@iodevblue)
 [![Stack Exchange](https://img.shields.io/badge/Stack_Exchange-1E6BB8?style=for-the-badge&logo=stack-exchange&logoColor=white)](https://softwareengineering.stackexchange.com/users/430063/io-devblue)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17819649/iodevblue)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/io_devblue)
